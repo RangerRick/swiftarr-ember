@@ -23,6 +23,11 @@
     "test:ember": "ember test"
   },
   "devDependencies": {
+    "@capacitor-community/electron": "^4.0.3",
+    "@capacitor/android": "^3.3.3",
+    "@capacitor/cli": "^3.3.3",
+    "@capacitor/core": "^3.3.3",
+    "@capacitor/ios": "^3.3.3",
     "@ember/jquery": "^2.0.0",
     "@ember/optional-features": "^2.0.0",
     "@ember/test-helpers": "^2.4.2",
@@ -42,6 +47,7 @@
     "ember-cli-moment-shim": "^3.8.0",
     "ember-cli-sass": "^10.0.1",
     "ember-cli-sri": "^2.1.1",
+    "ember-cli-stencil": "^1.0.0",
     "ember-cli-terser": "^4.0.2",
     "ember-cookies": "^0.5.2",
     "ember-data": "~3.28.0",
